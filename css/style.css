@@ -295,3 +295,10 @@ background:#111;
 border:1px solid #9d4edd;
 box-shadow:0 0 15px rgba(157,78,221,0.2);
 }
+footer a{
+color:white;
+text-decoration:none;
+margin:0 10px;
+}
+
+footer a:hover
