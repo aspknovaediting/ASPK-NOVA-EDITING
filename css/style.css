@@ -268,3 +268,30 @@ box-shadow:0 0 15px rgba(157,78,221,0.3);
 color:#9d4edd;
 margin-bottom:20px;
 }
+.hero{
+height:100vh;
+display:flex;
+flex-direction:column;
+justify-content:center;
+align-items:center;
+text-align:center;
+background:linear-gradient(135deg,#000000,#1a0033,#4b0082);
+}
+
+.hero h1{
+font-size:70px;
+color:#ffffff;
+text-shadow:0 0 20px #9d4edd;
+}
+
+.hero p{
+font-size:22px;
+margin-top:15px;
+margin-bottom:20px;
+}
+
+.card{
+background:#111;
+border:1px solid #9d4edd;
+box-shadow:0 0 15px rgba(157,78,221,0.2);
+}
